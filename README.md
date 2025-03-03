@@ -1,7 +1,7 @@
-Here’s the ingredients list extracted from the recipe image, formatted in markdown:
+Here's the ingredients list extracted from the recipe image in markdown format:
 
 ```markdown
-## Ingredients
+### Ingredients for Beef Stroganoff
 
 - 500g sirloin steak, cut into strips
 - 2 tbsp smoked paprika
