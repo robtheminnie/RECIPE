@@ -1,4 +1,4 @@
-Here's the ingredients list for the Beef Stroganoff formatted in markdown:
+Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
 ```markdown
 ## Ingredients
@@ -17,6 +17,6 @@ Here's the ingredients list for the Beef Stroganoff formatted in markdown:
 - 2 tbsp double cream
 - Handful of fresh parsley, roughly chopped
 - Salt and pepper
-- 600g mashed potatoes
+- 600g mashed potatoes (see Sides, page 210)
 - 400g steamed broccoli
 ```
