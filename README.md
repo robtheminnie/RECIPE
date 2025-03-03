@@ -1,18 +1,24 @@
-Here's the ingredients list formatted in markdown:
+Here's the ingredients list for the Chicken Chow Mein, formatted in markdown:
 
 ```markdown
-# Quick Chicken and Chorizo Paella Ingredients
+### Ingredients
 
-- 80 g chorizo, diced
+- 1 egg
+- 2 tbsp cornflour
+- 3 tbsp light soy sauce
+- 1 tsp white pepper
 - 600 g skinless chicken breasts, cut into bite-sized chunks
-- 1 red onion, diced
-- 1 green pepper, cut into bite-sized chunks
-- 250 g baby plum tomatoes, halved
-- 2 tbsp paprika
-- 1 tsp ground cumin
-- 1 tsp chilli powder
-- 2 tbsp tomato purée
-- 1 x 400 g tin chopped tomatoes
-- 2 x 250 g pouches microwave Mexican rice, cooked to packet instructions
-- Handful of fresh basil leaves, roughly torn if large
+- 2 tbsp vegetable oil
+- 1 onion, roughly chopped
+- 4–5 spring onions, roughly sliced
+- 3 garlic cloves, finely chopped
+- 1 x 450 g packet straight-to-wok egg noodles
+- 1 tbsp dark soy sauce
+- 1 tbsp sesame oil
+- ¼ tsp MSG (optional)
+- 100 g beansprouts
+
+### To serve
+
+- 40 g prawn crackers (or vegetarian alternative, if preferred)
 ```
