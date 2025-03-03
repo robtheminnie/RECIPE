@@ -1,20 +1,16 @@
-# Beef Stroganoff Ingredients
+Here’s the ingredients list for the Sweet Chilli Chicken Sausage and Halloumi Pasta formatted in Markdown:
 
-- 500g sirloin steak, cut into strips
-- 2 tbsp smoked paprika
-- 1 tbsp cornflour
-- 2 tbsp light butter
-- 1 onion, finely chopped
-- 400g mushrooms, sliced
-- 4 garlic cloves, finely chopped
-- 1 tbsp Dijon mustard
-- 1 tbsp Worcestershire sauce
-- 50g light soft cheese
-- 300ml boiling beef stock
-- 2 tbsp double cream
-- Handful of fresh parsley, roughly chopped
-- Salt and pepper
-- 600g mashed potatoes (see Sides, page 210)
-- 400g steamed broccoli
+```markdown
+## Ingredients
 
-**Low calorie switch:** leafy salad
+- 10 chicken sausages
+- 150g light halloumi, sliced
+- 15–20 sprays light cooking oil
+- 1 onion, diced
+- 200g cherry tomatoes, halved
+- 260g penne pasta
+- 4 tbsp sweet chilli sauce
+- 100g sweet chilli soft cheese (e.g., Philadelphia)
+- 2 chicken stock cubes
+- Handful of fresh basil leaves
+```
