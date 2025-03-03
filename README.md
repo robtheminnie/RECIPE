@@ -1,22 +1,19 @@
-Here’s the ingredients list from the recipe formatted in markdown:
+Here is the ingredients list extracted from the recipe:
 
 ```markdown
-## Beef Stroganoff Ingredients
+## Chicken Satay and Coconut Rice Ingredients
 
-- 500g sirloin steak, cut into strips
-- 2 tbsp smoked paprika
-- 1 tbsp cornflour
-- 2 tbsp light butter
-- 1 onion, finely chopped
-- 400g mushrooms, sliced
-- 4 garlic cloves, finely chopped
-- 1 tbsp Dijon mustard
-- 1 tbsp Worcestershire sauce
-- 50g light soft cheese
-- 300ml boiling beef stock
-- 2 tbsp double cream
+- 50 g smooth peanut butter
+- 40 g Thai red curry paste
+- 1 tbsp light soy sauce
+- 200 ml light coconut milk (from a 400 ml tin, use half)
+- 300 g skinless chicken breasts, cut into bite-sized chunks
+- 10-12 sprays light cooking oil
 - Handful of fresh parsley, roughly chopped
-- Salt and pepper
-- 600g mashed potatoes (see Sides, page 210)
-- 400g steamed broccoli
+- ½ tsp salt
+- ½ tsp pepper
+
+### To serve
+- 250 g microwave coconut rice, cooked to packet instructions
+- 1 tsp chilli flakes (optional)
 ```
