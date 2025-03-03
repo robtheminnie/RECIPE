@@ -1,3 +1,4 @@
+Serves 4:
 Ingredients List
 - 500g sirloin steak
 - 2 tbsp smoked paprika
