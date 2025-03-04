@@ -1,14 +1,41 @@
-# Ingredients List
+## Ingredients List
 
-## Servings: 2
+### Servings: 2
 
-- Potatoes: 450 grams  
-- Bell Pepper: 1 unit  
-- Garlic Clove: 2 units  
-- Beef Mince: 240 grams  
-- Mexican Style Spice Mix: 1 sachet  
-- Finely Chopped Tomatoes: 1 carton  
-- Beef Stock Paste: 10 grams  
-- Soured Cream: 75 grams  
-- Mature Cheddar Cheese: 30 grams  
-- Water for the Beef: 50 millilitres  
+- **Potatoes:** 450g  
+- **Bell Pepper:** 1  
+- **Garlic Clove:** 2  
+- **Beef Mince:** 240g  
+- **Mexican Style Spice Mix:** 1 sachet  
+- **Finely Chopped Tomatoes:** 1 carton  
+- **Beef Stock Paste:** 10g  
+- **Soured Cream:** 75g  
+- **Mature Cheddar Cheese:** 30g  
+
+---
+
+### Servings: 3
+
+- **Potatoes:** 700g  
+- **Bell Pepper:** 2  
+- **Garlic Clove:** 3  
+- **Beef Mince:** 360g  
+- **Mexican Style Spice Mix:** 1 sachet  
+- **Finely Chopped Tomatoes:** 1 carton  
+- **Beef Stock Paste:** 15g  
+- **Soured Cream:** 150g  
+- **Mature Cheddar Cheese:** 45g  
+
+---
+
+### Servings: 4
+
+- **Potatoes:** 900g  
+- **Bell Pepper:** 2  
+- **Garlic Clove:** 4  
+- **Beef Mince:** 480g  
+- **Mexican Style Spice Mix:** 2 sachets  
+- **Finely Chopped Tomatoes:** 1 carton  
+- **Beef Stock Paste:** 20g  
+- **Soured Cream:** 150g  
+- **Mature Cheddar Cheese:** 60g  
