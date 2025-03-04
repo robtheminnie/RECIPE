@@ -1,22 +1,14 @@
-## Beef Stroganoff Ingredients
+# Ingredients List
 
-**Serves:** 4
+## Servings: 2
 
-- 500 g sirloin steak, cut into strips
-- 2 tbsp smoked paprika
-- 1 tbsp cornflour
-- 2 tbsp light butter
-- 1 onion, finely chopped
-- 400 g mushrooms, sliced
-- 4 garlic cloves, finely chopped
-- 1 tbsp Dijon mustard
-- 1 tbsp Worcestershire sauce
-- 50 g soft cheese
-- 300 ml boiling beef stock
-- 2 tbsp double cream
-- Handful of fresh parsley, roughly chopped
-- Salt and pepper
-- 600 g mashed potatoes (see Sides, page 210)
-- 400 g steamed broccoli
-
-**Low calorie switch:** leafy salad
+- Potatoes: 450 grams  
+- Bell Pepper: 1 unit  
+- Garlic Clove: 2 units  
+- Beef Mince: 240 grams  
+- Mexican Style Spice Mix: 1 sachet  
+- Finely Chopped Tomatoes: 1 carton  
+- Beef Stock Paste: 10 grams  
+- Soured Cream: 75 grams  
+- Mature Cheddar Cheese: 30 grams  
+- Water for the Beef: 50 millilitres  
