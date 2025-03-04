@@ -1,18 +1,21 @@
-Here’s the ingredients list extracted from the recipe image, formatted in markdown:
+# Beef Stroganoff
 
-```markdown
-## Ingredients for 2 People
+**Servings:** 4
 
-- **Potatoes**: 450 g
-- **Bell Pepper**: 1 unit
-- **Garlic Clove**: 2 units
-- **Beef Mince**: 240 g
-- **Mexican Style Spice Mix**: 1 sachet
-- **Finely Chopped Tomatoes**: 1 carton
-- **Beef Stock Paste**: 10 g
-- **Soured Cream**: 75 g
-- **Mature Cheddar Cheese**: 30 g
-- **Water for the Beef**: 50 ml
-``` 
-
-Feel free to ask if you need any more help!
+## Ingredients
+- 500 g sirloin steak, cut into strips
+- 2 tbsp smoked paprika
+- 1 tbsp cornflour
+- 2 tbsp light butter
+- 1 onion, finely chopped
+- 400 g mushrooms, sliced
+- 4 garlic cloves, finely chopped
+- 1 tbsp Dijon mustard
+- 1 tbsp Worcestershire sauce
+- 50 g light soft cheese
+- 300 ml boiling beef stock
+- 2 tbsp double cream
+- Handful of fresh parsley, roughly chopped
+- Salt and pepper
+- 600 g mashed potatoes (see Sides)
+- 400 g steamed broccoli
