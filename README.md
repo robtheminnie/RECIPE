@@ -1,24 +1,18 @@
-Here's the ingredients list for the Chicken Chow Mein, formatted in markdown:
+Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
 ```markdown
-### Ingredients
+## Ingredients for 2 People
 
-- 1 egg
-- 2 tbsp cornflour
-- 3 tbsp light soy sauce
-- 1 tsp white pepper
-- 600 g skinless chicken breasts, cut into bite-sized chunks
-- 2 tbsp vegetable oil
-- 1 onion, roughly chopped
-- 4–5 spring onions, roughly sliced
-- 3 garlic cloves, finely chopped
-- 1 x 450 g packet straight-to-wok egg noodles
-- 1 tbsp dark soy sauce
-- 1 tbsp sesame oil
-- ¼ tsp MSG (optional)
-- 100 g beansprouts
+- **Potatoes**: 450 g
+- **Bell Pepper**: 1 unit
+- **Garlic Clove**: 2 units
+- **Beef Mince**: 240 g
+- **Mexican Style Spice Mix**: 1 sachet
+- **Finely Chopped Tomatoes**: 1 carton
+- **Beef Stock Paste**: 10 g
+- **Soured Cream**: 75 g
+- **Mature Cheddar Cheese**: 30 g
+- **Water for the Beef**: 50 ml
+``` 
 
-### To serve
-
-- 40 g prawn crackers (or vegetarian alternative, if preferred)
-```
+Feel free to ask if you need any more help!
