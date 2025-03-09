@@ -1,12 +1,18 @@
-# Ingredients List
+Here’s the ingredients list extracted from the recipe:
 
-## Servings: 2
+### Ingredients List (Serves 2)
 
-- 450 g Potatoes
-- 2 Chicken Fillets
-- 150 g Green Beans
-- 1 Echalion Shallot
+- 1 Onion
 - 2 Garlic Cloves
-- 30 g Mature Cheddar Cheese
-- 1 carton Tomato Passata
-- 10 g Chicken Stock Paste
+- 125 g Baby Plum Tomatoes
+- 60 g Diced Chorizo
+- 1 sachet Cajun Spice Mix
+- 150 g Basmati Rice
+- 20 g Chicken Stock Paste
+- 1 bunch Flat Leaf Parsley
+- ½ Lemon
+- 25 g Red Pepper Chilli Jelly
+- 75 g Greek Style Natural Yoghurt
+- 2 tsp Butter
+- ½ tsp Sugar
+- 300 ml Water for the Rice
