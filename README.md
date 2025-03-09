@@ -1,13 +1,12 @@
 # Ingredients List
 
-- Low calorie cooking spray
-- 1 onion, peeled and diced
-- 1 medium butternut squash, peeled, deseeded and cut into wedges
-- 1 small potato, peeled and quartered
-- 2 garlic cloves, peeled and crushed
-- Salt and freshly ground black pepper, to taste
-- 900 ml vegetable stock
-- A few thyme sprigs, to serve
+## Servings: 2
 
-## Servings
-- Serves: 4
+- 450 g Potatoes
+- 2 Chicken Fillets
+- 150 g Green Beans
+- 1 Echalion Shallot
+- 2 Garlic Cloves
+- 30 g Mature Cheddar Cheese
+- 1 carton Tomato Passata
+- 10 g Chicken Stock Paste
