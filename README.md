@@ -1,14 +1,18 @@
-# Ingredients List
+Here’s the ingredients list from the recipe, formatted in markdown:
 
-## Servings: 2
+```markdown
+## Ingredients for 2 Servings
 
-- 100 g Jasmine Rice
-- 1 Bell Pepper
-- ½ Lime
-- 240 g Pork Mince
-- 15 g Ginger, Garlic & Lemongrass Puree
-- 100 g Teriyaki Sauce
-- 1 pinch Chilli Flakes
-- 300 ml Water for the Rice
-- ½ tsp Sugar
+- 850 g Salad Potatoes
+- 200 g Lamb Mince
+- 1 sachet Ground Turmeric
+- 80 g Green Beans
+- ½ Green Chilli
+- 190 g Baby Plum Tomatoes
+- ½ sachet Ginger Puree
+- 1 sachet North Indian Style Spice Mix
+- 100 ml Water for the Curry
+- 1 sachet Mango Chutney
+```
 
+Feel free to reach out if you need any more assistance!
