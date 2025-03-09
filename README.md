@@ -1,13 +1,14 @@
-Here’s the ingredients list extracted from the recipe image, formatted in markdown:
+# Ingredients List
 
-## Ingredients for 2 Servings
+## Servings: 2
 
-- **Egg Noodle Nest**: 2 nests
-- **Green Beans**: 80g
-- **Diced Chicken Breast**: 280g
-- **Bell Pepper**: 1
-- **Lime**: 1
-- **Ketjap Manis**: 2 sachets
-- **Soy Sauce**: 25ml
-- **Honey**: 1 sachet
-- **Tomato Ketchup**: 2 tbsp
+- 100 g Jasmine Rice
+- 1 Bell Pepper
+- ½ Lime
+- 240 g Pork Mince
+- 15 g Ginger, Garlic & Lemongrass Puree
+- 100 g Teriyaki Sauce
+- 1 pinch Chilli Flakes
+- 300 ml Water for the Rice
+- ½ tsp Sugar
+
