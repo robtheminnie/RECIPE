@@ -1,18 +1,13 @@
-Here’s the ingredients list extracted from the recipe:
+Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
-### Ingredients List (Serves 2)
+## Ingredients for 2 Servings
 
-- 1 Onion
-- 2 Garlic Cloves
-- 125 g Baby Plum Tomatoes
-- 60 g Diced Chorizo
-- 1 sachet Cajun Spice Mix
-- 150 g Basmati Rice
-- 20 g Chicken Stock Paste
-- 1 bunch Flat Leaf Parsley
-- ½ Lemon
-- 25 g Red Pepper Chilli Jelly
-- 75 g Greek Style Natural Yoghurt
-- 2 tsp Butter
-- ½ tsp Sugar
-- 300 ml Water for the Rice
+- **Egg Noodle Nest**: 2 nests
+- **Green Beans**: 80g
+- **Diced Chicken Breast**: 280g
+- **Bell Pepper**: 1
+- **Lime**: 1
+- **Ketjap Manis**: 2 sachets
+- **Soy Sauce**: 25ml
+- **Honey**: 1 sachet
+- **Tomato Ketchup**: 2 tbsp
