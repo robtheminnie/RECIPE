@@ -1,18 +1,13 @@
-Here's the ingredients list extracted from the recipe:
+# Ingredients List
 
-### Ingredients List
-
-- 1 small butternut squash, deseeded and cut into 8 pieces
-- 1 red pepper, deseeded and cut into 8 pieces
-- 1 yellow pepper, deseeded and cut into 8 pieces
-- 1 large red onion, cut into thick wedges
-- 2 large beefsteak tomatoes, halved
-- 2 garlic cloves, thinly sliced
-- Juice of 1 lemon
-- A few sprigs of fresh rosemary (optional, plus extra sprigs to garnish)
-- Salt and freshly ground black pepper
 - Low calorie cooking spray
-- 1200 ml vegetable stock
+- 1 onion, peeled and diced
+- 1 medium butternut squash, peeled, deseeded and cut into wedges
+- 1 small potato, peeled and quartered
+- 2 garlic cloves, peeled and crushed
+- Salt and freshly ground black pepper, to taste
+- 900 ml vegetable stock
+- A few thyme sprigs, to serve
 
-### Servings
-- Serves 4
+## Servings
+- Serves: 4
