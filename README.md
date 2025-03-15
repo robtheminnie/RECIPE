@@ -1,19 +1,21 @@
-Sure! Here’s the ingredients list extracted from the recipe image in markdown format:
+Here's the extracted ingredients list formatted in Markdown:
 
 ```markdown
-## Ingredients for 2 Servings
+### Ingredients for 2 Servings
 
-- 450 g Potatoes
-- 1 Bell Pepper
 - 1 Garlic Clove
+- 180 g Rigatoni Pasta
 - 240 g Beef Mince
-- 1 sachet Mexican Style Spice Mix
+- 20 g Chipotle Paste
 - 1 carton Tomato Passata
 - 10 g Beef Stock Paste
-- 1 carton Black Beans
-- 40 g Grated Hard Italian Style Cheese
-- 1 Spring Onion
+- 30 g Mature Cheddar Cheese
+- 40 g Baby Spinach
+- 90 g Bacon Lardons
+
+#### Pantry
+- 1 tsp Sugar for the Sauce
 - 100 ml Water for the Sauce
 ```
 
-Feel free to ask if you need any more assistance!
+Feel free to let me know if you need any further assistance!
