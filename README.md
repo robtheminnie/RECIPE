@@ -1,18 +1,26 @@
-Here’s the ingredients list from the recipe, formatted in markdown:
+Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
 ```markdown
-## Ingredients for 2 Servings
+# Ingredients List
 
-- 850 g Salad Potatoes
-- 200 g Lamb Mince
-- 1 sachet Ground Turmeric
-- 80 g Green Beans
-- ½ Green Chilli
-- 190 g Baby Plum Tomatoes
-- ½ sachet Ginger Puree
-- 1 sachet North Indian Style Spice Mix
-- 100 ml Water for the Curry
-- 1 sachet Mango Chutney
+## Servings: 2
+
+- 1 Onion
+- 2 Garlic Cloves
+- 125 g Baby Plum Tomatoes
+- 60 g Diced Chorizo
+- 1 sachet Cajun Spice Mix
+- 150 g Basmati Rice
+- 20 g Chicken Stock Paste
+- 1 bunch Flat Leaf Parsley
+- ½ Lemon
+- 25 g Red Pepper Chilli Jelly
+- 75 g Greek Style Natural Yoghurt
+
+### Pantry
+- 2 tsp Butter
+- ½ tsp Sugar
+- 300 ml Water for the Rice
 ```
 
-Feel free to reach out if you need any more assistance!
+Feel free to reach out if you need any more help!
