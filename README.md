@@ -1,26 +1,17 @@
-Here’s the ingredients list extracted from the recipe image, formatted in markdown:
+Here's the extracted ingredients list formatted in markdown:
 
 ```markdown
-# Ingredients List
+## Ingredients List for 2 Servings
 
-## Servings: 2
-
-- 1 Onion
+- 25 g Panko Breadcrumbs
+- 1 sachet Dried Oregano
+- 2 Chicken Fillets
+- 2 tbsp Mayonnaise
+- 450 g Potatoes
+- 150 g Green Beans
 - 2 Garlic Cloves
-- 125 g Baby Plum Tomatoes
-- 60 g Diced Chorizo
-- 1 sachet Cajun Spice Mix
-- 150 g Basmati Rice
-- 20 g Chicken Stock Paste
-- 1 bunch Flat Leaf Parsley
-- ½ Lemon
-- 25 g Red Pepper Chilli Jelly
-- 75 g Greek Style Natural Yoghurt
-
-### Pantry
-- 2 tsp Butter
-- ½ tsp Sugar
-- 300 ml Water for the Rice
+- 30 g Mature Cheddar Cheese
+- 1 tbsp Olive Oil for the Crumb
 ```
 
-Feel free to reach out if you need any more help!
+If you need anything else, feel free to ask!
