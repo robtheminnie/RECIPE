@@ -1,17 +1,16 @@
-Here's the extracted ingredients list formatted in markdown:
+Here's the ingredients list extracted from the recipe, formatted in markdown:
 
 ```markdown
-## Ingredients List for 2 Servings
+## Ingredients for 2 Servings
 
-- 25 g Panko Breadcrumbs
-- 1 sachet Dried Oregano
-- 2 Chicken Fillets
-- 2 tbsp Mayonnaise
 - 450 g Potatoes
-- 150 g Green Beans
-- 2 Garlic Cloves
-- 30 g Mature Cheddar Cheese
-- 1 tbsp Olive Oil for the Crumb
+- 1 sachet Mexican Style Spice Mix
+- 2 Chicken Fillets
+- 1 sachet Chipotle Paste
+- 1 Bell Pepper
+- 1 Garlic Clove
+- 1 Red Onion
+- 1 bunch Coriander
+- 60 g Chorizo
+- 75 g Soured Cream
 ```
-
-If you need anything else, feel free to ask!
