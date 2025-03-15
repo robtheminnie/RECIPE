@@ -1,16 +1,20 @@
-Here's the ingredients list extracted from the recipe, formatted in markdown:
+Here’s the ingredients list from the recipe formatted in markdown:
 
-```markdown
 ## Ingredients for 2 Servings
 
-- 450 g Potatoes
-- 1 sachet Mexican Style Spice Mix
-- 2 Chicken Fillets
-- 1 sachet Chipotle Paste
-- 1 Bell Pepper
-- 1 Garlic Clove
-- 1 Red Onion
-- 1 bunch Coriander
-- 60 g Chorizo
-- 75 g Soured Cream
-```
+- **Basmati Rice:** 100g
+- **Bell Pepper:** 1
+- **Red Onion:** 1
+- **Garlic Clove:** 2
+- **Coriander:** 1 bunch
+- **Panko Breadcrumbs:** 10g
+- **Chipotle Paste:** 1 sachet
+- **Pork Mince:** 240g
+- **Tomato Passata:** ½ carton
+- **Chicken Stock Paste:** 10g
+- **Soured Cream:** 75g
+- **Water for the Rice:** 200ml
+- **Salt for the Meatballs:** ¼ tsp
+- **Water for the Sauce:** 75ml
+
+Feel free to ask if you need further assistance!
