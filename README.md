@@ -1,6 +1,7 @@
-Here’s the ingredients list extracted from the recipe formatted in markdown:
+Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
-## Ingredients for 2 Servings
+```markdown
+## Ingredients List (Serves 2)
 
 - 450 g Potatoes
 - 1 Bell Pepper
@@ -13,5 +14,6 @@ Here’s the ingredients list extracted from the recipe formatted in markdown:
 - 40 g Grated Hard Italian Style Cheese
 - 1 Spring Onion
 - 100 ml Water for the Sauce
+```
 
-Feel free to let me know if you need anything else!
+Feel free to let me know if you need any other assistance!
