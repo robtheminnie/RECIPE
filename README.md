@@ -1,19 +1,18 @@
-Here’s the ingredients list extracted from the recipe:
+## Ingredients List
 
-### Ingredients for 2 Servings
+### Servings: 2
 
-- 1 Garlic Clove
-- 80 g Mangetout
-- ½ Lime
-- 2 Egg Noodle Nest
-- 260 g Diced Chicken Breast
-- 15 ml Soy Sauce
-- 30 g Peanut Butter
-- 25 g Ketjap Manis
-- 45 g Yellow Thai Style Paste
+- **Basmati Rice**: 150 g
+- **Diced Chicken Thigh**: 280 g
+- **Red Onion**: 80 g
+- **Green Beans**: ½
+- **Red Chilli**: ½
+- **Garlic Clove**: 1
+- **Teriyaki Sauce**: 150 ml
+- **Roasted White Sesame Seeds**: 5 g
+- **Diced Chicken Breast**: 280 g
+- **Water**: 50 ml (for the sauce) 
 
-#### Pantry
-- 1 tsp Sugar for the Sauce
-- 150 ml Boiled Water for the Sauce
-
-Feel free to shop for these ingredients at Sainsbury's!
+### Notes
+- Ingredients are based on an uncooked recipe for 2 servings.
+- Adjust shopping quantities based on Sainsbury's availability.
