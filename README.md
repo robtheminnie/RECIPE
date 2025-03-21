@@ -1,19 +1,23 @@
 Here’s the ingredients list extracted from the recipe image, formatted in markdown:
 
-```markdown
-## Ingredients List (Serves 2)
+# Ingredients List
 
-- 450 g Potatoes
-- 1 Bell Pepper
-- 1 Garlic Clove
-- 240 g Beef Mince
-- 1 sachet Mexican Style Spice Mix
-- 1 carton Tomato Passata
-- 10 g Beef Stock Paste
-- 1 carton Black Beans
-- 40 g Grated Hard Italian Style Cheese
-- 1 Spring Onion
-- 100 ml Water for the Sauce
-```
+### Servings: 2
 
-Feel free to let me know if you need any other assistance!
+- **Potatoes**: 450g
+- **Garlic Clove**: 3 items
+- **Roasted Spice and Herb Blend**: 1 sachet
+- **Breadcrumbs**: 10g
+- **Beef Mince**: 240g
+- **Red Wine Vinegar**: 12g
+- **Greek Style Natural Yoghurt**: 75g
+- **Red Pepper Chilli Jelly**: 25g
+- **Smoked Paprika**: 1 sachet
+- **Baby Leaf Mix**: 20g
+
+### Pantry
+- **Salt for the Breadcrumbs**: ¼ tsp
+- **Water for the Breadcrumbs**: 2 tbsp
+- **Sugar for the Dressing**: ½ tsp
+- **Olive Oil for the Dressing**: 1 tbsp
+- **Butter**: 10g
