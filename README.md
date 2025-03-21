@@ -1,18 +1,15 @@
 ## Ingredients List
 
-### Servings: 2
+**Servings:** 2
 
-- **Basmati Rice**: 150 g
-- **Diced Chicken Thigh**: 280 g
-- **Red Onion**: 80 g
-- **Green Beans**: ½
-- **Red Chilli**: ½
-- **Garlic Clove**: 1
-- **Teriyaki Sauce**: 150 ml
-- **Roasted White Sesame Seeds**: 5 g
-- **Diced Chicken Breast**: 280 g
-- **Water**: 50 ml (for the sauce) 
-
-### Notes
-- Ingredients are based on an uncooked recipe for 2 servings.
-- Adjust shopping quantities based on Sainsbury's availability.
+- 1 piece Ginger
+- 1 piece Sweet Potato
+- ½ piece Lime
+- 2 sachets Sri Lankan Style Curry Powder
+- 1 sachet Tomato Puree
+- 200 ml Coconut Milk
+- 15 g Vegetable Stock Paste
+- 100 g Red Split Lentils
+- 4 pieces Super Soft Tortilla with Whole Wheat
+- 100 g Baby Spinach
+- 300 ml Water for the Daal
