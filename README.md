@@ -1,18 +1,15 @@
-# Moroccan Roast Sweet Potato Soup
+Here's the extracted ingredients list formatted in markdown:
 
-**Servings:** 4
+```markdown
+## Ingredients for Leek & Potato Soup
 
-## Ingredients List
+- 1 large onion, peeled and finely chopped
+- 2 bay leaves
+- 700 g potatoes, peeled and finely diced
+- 1.2 litres vegetable stock
+- 150 g fat free fromage frais
+- Salt and freshly ground black pepper
 
-- 700 g sweet potatoes, peeled and cut into big chunks
-- 6 large shallots, peeled and quartered
-- 3 plump garlic cloves, unpeeled
-- 1 carrot, peeled and cut into big chunks
-- 1 tbsp harissa paste, plus extra to serve
-- 1 tbsp olive oil
-- Salt (to taste)
-- Freshly ground black pepper (to taste)
-- 1 litre vegetable stock
-- 1 tsp runny honey
-- Generous squeeze of lemon juice
-- Fat-free natural yogurt, to serve
+### Servings
+- Serves 4
+```
