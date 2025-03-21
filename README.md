@@ -1,24 +1,16 @@
-# Ingredients List
+Here's the ingredients list extracted from the recipe image, formatted in markdown:
 
-## Servings: 2
+### Ingredients for 2 Servings
 
-### Fresh Ingredients
 - 450 g Potatoes
-- 3 Garlic Cloves
-- 240 g Beef Mince
-- 75 g Greek Style Natural Yoghurt
-- 20 g Baby Leaf Mix
+- 280 g Diced Chicken Breast
+- 2 Garlic Cloves
+- 60 g Mature Cheddar Cheese (1 sachet)
+- 1 sachet Tomato Puree
+- 1 sachet Chipotle Paste
+- 10 g Chicken Stock Paste
+- 4 Plain Taco Tortillas
+- 75 g Soured Cream
+- 100 ml Water for the Chicken
 
-### Condiments and Seasonings
-- 1 sachet Roasted Spice and Herb Blend
-- 10 g Breadcrumbs
-- 12 ml Red Wine Vinegar
-- 25 g Red Pepper Chilli Jelly
-- 1 sachet Smoked Paprika
-
-### Pantry Items
-- ½ tsp Salt for the Breadcrumbs
-- 2 tbsp Water for the Breadcrumbs
-- ½ tsp Sugar for the Dressing
-- 1 tbsp Olive Oil for the Dressing
-- 10 g Butter
+Feel free to shop for these ingredients at Sainsbury's!
