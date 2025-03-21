@@ -1,15 +1,18 @@
+# Moroccan Roast Sweet Potato Soup
+
+**Servings:** 4
+
 ## Ingredients List
 
-**Servings:** 2
-
-- 1 piece Ginger
-- 1 piece Sweet Potato
-- ½ piece Lime
-- 2 sachets Sri Lankan Style Curry Powder
-- 1 sachet Tomato Puree
-- 200 ml Coconut Milk
-- 15 g Vegetable Stock Paste
-- 100 g Red Split Lentils
-- 4 pieces Super Soft Tortilla with Whole Wheat
-- 100 g Baby Spinach
-- 300 ml Water for the Daal
+- 700 g sweet potatoes, peeled and cut into big chunks
+- 6 large shallots, peeled and quartered
+- 3 plump garlic cloves, unpeeled
+- 1 carrot, peeled and cut into big chunks
+- 1 tbsp harissa paste, plus extra to serve
+- 1 tbsp olive oil
+- Salt (to taste)
+- Freshly ground black pepper (to taste)
+- 1 litre vegetable stock
+- 1 tsp runny honey
+- Generous squeeze of lemon juice
+- Fat-free natural yogurt, to serve
