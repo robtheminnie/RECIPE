@@ -1,16 +1,19 @@
-Here's the ingredients list extracted from the recipe image, formatted in markdown:
+Here’s the ingredients list extracted from the recipe:
 
 ### Ingredients for 2 Servings
 
-- 450 g Potatoes
-- 280 g Diced Chicken Breast
-- 2 Garlic Cloves
-- 60 g Mature Cheddar Cheese (1 sachet)
-- 1 sachet Tomato Puree
-- 1 sachet Chipotle Paste
-- 10 g Chicken Stock Paste
-- 4 Plain Taco Tortillas
-- 75 g Soured Cream
-- 100 ml Water for the Chicken
+- 1 Garlic Clove
+- 80 g Mangetout
+- ½ Lime
+- 2 Egg Noodle Nest
+- 260 g Diced Chicken Breast
+- 15 ml Soy Sauce
+- 30 g Peanut Butter
+- 25 g Ketjap Manis
+- 45 g Yellow Thai Style Paste
+
+#### Pantry
+- 1 tsp Sugar for the Sauce
+- 150 ml Boiled Water for the Sauce
 
 Feel free to shop for these ingredients at Sainsbury's!
