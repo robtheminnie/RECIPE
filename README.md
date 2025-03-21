@@ -2,20 +2,23 @@
 
 ## Servings: 2
 
-- **Potatoes**: 450 g
-- **Garlic Clove**: 3
-- **Roasted Spice and Herb Blend**: 1 sachet
-- **Breadcrumbs**: 10 g
-- **Beef Mince**: 240 g
-- **Red Wine Vinegar**: 12 g
-- **Greek Style Natural Yoghurt**: 75 g
-- **Red Pepper Chilli Jelly**: 25 g
-- **Smoked Paprika**: 1 sachet
-- **Baby Leaf Mix**: 20 g
+### Fresh Ingredients
+- 450 g Potatoes
+- 3 Garlic Cloves
+- 240 g Beef Mince
+- 75 g Greek Style Natural Yoghurt
+- 20 g Baby Leaf Mix
 
-### Pantry
-- **Salt for the Breadcrumbs**: ¼ tsp
-- **Water for the Breadcrumbs**: 2 tbsp
-- **Sugar for the Dressing**: ½ tsp
-- **Olive Oil for the Dressing**: 1 tbsp
-- **Butter**: 10 g
+### Condiments and Seasonings
+- 1 sachet Roasted Spice and Herb Blend
+- 10 g Breadcrumbs
+- 12 ml Red Wine Vinegar
+- 25 g Red Pepper Chilli Jelly
+- 1 sachet Smoked Paprika
+
+### Pantry Items
+- ½ tsp Salt for the Breadcrumbs
+- 2 tbsp Water for the Breadcrumbs
+- ½ tsp Sugar for the Dressing
+- 1 tbsp Olive Oil for the Dressing
+- 10 g Butter
