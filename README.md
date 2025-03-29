@@ -1,15 +1,20 @@
-Here's the extracted ingredients list formatted in markdown:
+Here’s the ingredients list extracted from the recipe:
 
-```markdown
-## Ingredients for Leek & Potato Soup
+## Ingredients
 
-- 1 large onion, peeled and finely chopped
-- 2 bay leaves
-- 700 g potatoes, peeled and finely diced
-- 1.2 litres vegetable stock
-- 150 g fat free fromage frais
-- Salt and freshly ground black pepper
+- 1 small butternut squash
+- 1 red pepper
+- 1 yellow pepper
+- 1 large red onion
+- 2 large beefsteak tomatoes
+- 2 garlic cloves
+- Juice of 1 lemon
+- A few fresh rosemary sprigs
+- Salt (to taste)
+- Freshly ground black pepper (to taste)
+- Low calorie cooking spray
+- 1200 ml vegetable stock
+- Fresh thyme sprigs (to garnish)
 
-### Servings
-- Serves 4
-```
+## Servings
+Serves: 4
