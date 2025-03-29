@@ -1,6 +1,6 @@
-Here’s the extracted ingredients list formatted in markdown:
+# Ingredients List
 
-### Ingredients for 2 Servings
+## Servings: 2
 
 - 1 Onion
 - 2 Garlic Cloves
@@ -13,8 +13,6 @@ Here’s the extracted ingredients list formatted in markdown:
 - ½ Lemon
 - 25 g Red Pepper Chilli Jelly
 - 75 g Greek Style Natural Yoghurt
-
-#### Pantry
 - 2 tsp Butter
 - ½ tsp Sugar
 - 300 ml Water for the Rice
