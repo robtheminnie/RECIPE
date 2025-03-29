@@ -1,14 +1,15 @@
-## Ingredients List
+# Ingredients List
 
-### Servings: 2
+## Servings: 2
 
-- 1 Bell Pepper
-- 1 Echalion Shallot
-- 280 g Diced Chicken Breast
-- 125 g Baby Plum Tomatoes
-- 1 sachet Chipotle Paste
-- 150 g Basmati Rice
-- 10 g Chicken Stock Paste
-- 75 g Soured Cream
-- 10 g Butter
-- 300 ml Water for the Rice
+- 1 Garlic Clove
+- 80 g Mangetout
+- ½ Lime
+- 2 Egg Noodle Nests
+- 260 g Diced Chicken Breast
+- 15 ml Soy Sauce
+- 30 g Peanut Butter
+- 25 g Ketjap Manis
+- 45 g Yellow Thai Style Paste
+- 1 tsp Sugar (for the Sauce)
+- 150 ml Boiled Water (for the Sauce)
