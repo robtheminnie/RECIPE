@@ -1,20 +1,18 @@
-Here’s the ingredients list extracted from the recipe:
+Here's the ingredients list extracted from the recipe:
 
-## Ingredients
+```markdown
+# Ingredients
 
-- 1 small butternut squash
-- 1 red pepper
-- 1 yellow pepper
-- 1 large red onion
-- 2 large beefsteak tomatoes
-- 2 garlic cloves
-- Juice of 1 lemon
-- A few fresh rosemary sprigs
+- Fry Light
+- 1 large onion, finely chopped
+- 500 g extra-lean minced beef
+- 400 g can chopped tomatoes
+- 250 g passata
+- 1 beef stock cube
+- 1 tsp dried mixed herbs
 - Salt (to taste)
 - Freshly ground black pepper (to taste)
-- Low calorie cooking spray
-- 1200 ml vegetable stock
-- Fresh thyme sprigs (to garnish)
 
 ## Servings
-Serves: 4
+- Serves: 4
+```
