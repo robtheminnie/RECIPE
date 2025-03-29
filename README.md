@@ -1,15 +1,20 @@
-# Ingredients List
+Here’s the extracted ingredients list formatted in markdown:
 
-## Servings: 2
+### Ingredients for 2 Servings
 
-- 1 Garlic Clove
-- 80 g Mangetout
-- ½ Lime
-- 2 Egg Noodle Nests
-- 260 g Diced Chicken Breast
-- 15 ml Soy Sauce
-- 30 g Peanut Butter
-- 25 g Ketjap Manis
-- 45 g Yellow Thai Style Paste
-- 1 tsp Sugar (for the Sauce)
-- 150 ml Boiled Water (for the Sauce)
+- 1 Onion
+- 2 Garlic Cloves
+- 125 g Baby Plum Tomatoes
+- 60 g Diced Chorizo
+- 1 sachet Cajun Spice Mix
+- 150 g Basmati Rice
+- 20 g Chicken Stock Paste
+- 1 bunch Flat Leaf Parsley
+- ½ Lemon
+- 25 g Red Pepper Chilli Jelly
+- 75 g Greek Style Natural Yoghurt
+
+#### Pantry
+- 2 tsp Butter
+- ½ tsp Sugar
+- 300 ml Water for the Rice
