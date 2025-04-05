@@ -1,20 +1,16 @@
-Here's the extracted ingredients list formatted in markdown:
+Here’s the ingredients list extracted from the recipe:
 
-```markdown
-## Ingredients for Roast Vegetable Soup (Serves 4)
+## Ingredients
 
-- 1 small butternut squash, halved, deseeded, and each half cut into four pieces
-- 1 red pepper, halved and cut into four pieces
-- 1 yellow pepper, halved and cut into four pieces
-- 1 large red onion, peeled and cut into thick wedges
-- 2 large beefsteak tomatoes, halved
-- 2 garlic cloves, peeled and thinly sliced
-- Juice of 1 lemon
-- A few fresh rosemary sprigs
-- Salt and freshly ground black pepper (to taste)
-- Low calorie cooking spray (for roasting)
+- 1 large onion, peeled and finely chopped
+- 2 bay leaves
 - 1200 ml vegetable stock
-- Fresh thyme sprigs (to garnish)
-```
+- 700 g potatoes, peeled and finely diced
+- 1 large leek, trimmed and shredded
+- Salt, to taste
+- Freshly ground black pepper, to taste
+- 150 g fat-free fromage frais
 
-Feel free to ask if you need anything else!
+## Servings
+
+- Serves 4
