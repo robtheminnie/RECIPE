@@ -1,22 +1,25 @@
-Here's the ingredients list from the recipe, formatted in markdown:
+Here's the ingredients list from the recipe in markdown format:
 
-## Ingredients for 2 Servings
+```markdown
+## Ingredients List (Serves 4)
 
-- **1** Onion
-- **2** Garlic Cloves
-- **125 g** Baby Plum Tomatoes
-- **60 g** Diced Chorizo
-- **1 sachet** Cajun Spice Mix
-- **150 g** Basmati Rice
-- **20 g** Chicken Stock Paste
-- **1 bunch** Flat Leaf Parsley
-- **½** Lemon
-- **25 g** Red Pepper Chilli Jelly
-- **75 g** Greek Style Natural Yoghurt
+- 4 skinless chicken breast fillets
+- Low-calorie cooking spray (1 cal per spray)
+- 600g floury potatoes, such as Desiree or King Edward, peeled and cut into chips
+- Salt (to taste)
+- Freshly ground black pepper (to taste)
+- 1 small red onion, finely chopped
+- 1 red pepper, deseeded and cubed
+- 1 garlic clove, finely chopped
+- 75ml vegetable stock
+- 2 tomatoes, peeled and deseeded, roughly chopped
+- 230g can chopped tomatoes
+- 2 tbsp tomato purée
+- 1 tsp dried oregano
+- 1 tsp dried basil
+- 160g reduced-fat Cheddar, grated
+- Rocket (arugula) and a handful of finely chopped fresh flat-leaf parsley, to garnish
+- A rocket and cucumber salad, dressed with lemon juice, to serve
+``` 
 
-### Pantry Items
-- **2 tbsp** Butter
-- **½ tsp** Sugar
-- **300 ml** Water for the Rice
-
-Feel free to adjust the quantities based on what's available at Sainsbury's!
+Feel free to ask if you need anything else!
