@@ -1,27 +1,32 @@
-# Diet Coke Chicken with Wedges and Slaw
+Here's the ingredients list extracted from the recipe:
 
-### Servings: 4
+```markdown
+# Pasticcio Recipe
+
+**Servings:** 4
 
 ## Ingredients
 
-- 4 skinless chicken breast fillets, cut into 2cm pieces
-- 1 onion, finely chopped
-- 330 ml Diet Coke
-- 200 ml chicken stock
-- 8 tbsp passata with onions and garlic
-- 4 tbsp tomato purée
-- 2 garlic cloves, finely chopped
-- 2 tsp Worcestershire sauce
-- 1 tbsp dark soy sauce
-- 1 tsp dried mixed herbs
-- 200 g sugar snap peas
-- 1 red pepper, deseeded and cut into bite-size pieces
-- 1 yellow pepper, deseeded and cut into bite-size pieces
+- 1 large onion, roughly chopped
+- 3 garlic cloves, crushed
+- ½ tsp dried chilli flakes
+- ½ tsp ground cinnamon
+- 1 large carrot, peeled and finely grated
+- 500g extra-lean minced beef
+- 2 x 400g cans chopped tomatoes
+- 200g passata
+- 1 tsp sweetener
+- Salt and freshly ground black pepper (to taste)
+- 350g dried rigatoni
+- Steamed broccolli florets, to serve
 
-### For the Wedges:
-- 4 baking potatoes, cut into thick wedges
+### For the white sauce:
+- 2 level tsp cornflour
+- 150ml skimmed milk
+- 150ml vegetable stock
+- 150g fat-free natural fromages frais
+- 1 level tsp Dijon mustard
+- A small handful of fresh flat-leaf parsley, finely chopped
+```
 
-### Frylight
-- 1 tbsp dried parsley
-- 2 tsp garlic salt
-- 1 tbsp black peppercorns, coarsely ground
+Feel free to ask if you need more help!
