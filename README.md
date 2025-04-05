@@ -1,16 +1,20 @@
-Here’s the ingredients list extracted from the recipe:
+# Ingredients List for Red Wine and Rosemary Braised Lamb Shanks
 
-## Ingredients
+## Servings: 4
 
-- 1 large onion, peeled and finely chopped
-- 2 bay leaves
-- 1200 ml vegetable stock
-- 700 g potatoes, peeled and finely diced
-- 1 large leek, trimmed and shredded
-- Salt, to taste
-- Freshly ground black pepper, to taste
-- 150 g fat-free fromage frais
+### For the Lamb Shanks:
+- 4 large carrots, peeled and cut into 3cm cubes
+- 10 celery stalks, cut into 2cm cubes
+- 2 large onions, roughly chopped
+- 6 garlic cloves, finely chopped
+- 4 lamb shanks, all visible fat removed
+- 500g passata
+- 4 tbsp tomato purée
+- 100ml red wine
+- 2 sprigs of fresh rosemary, chopped (plus extra to garnish)
+- 500ml chicken stock
 
-## Servings
-
-- Serves 4
+### For the Mash:
+- 700g floury potatoes, such as Maris Piper, peeled and roughly chopped
+- 100ml boiling vegetable stock
+- Salt and freshly ground black pepper
