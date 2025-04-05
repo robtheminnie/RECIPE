@@ -1,19 +1,22 @@
-```markdown
-## Ingredients List
+Here's the ingredients list from the recipe, formatted in markdown:
 
-### Servings: 2
+## Ingredients for 2 Servings
 
-- 1 Garlic Clove
-- 180 g Rigatoni Pasta
-- 240 g Beef Mince
-- 20 g Chipotle Paste
-- 1 carton Tomato Passata
-- 10 g Beef Stock Paste
-- 30 g Mature Cheddar Cheese
-- 40 g Baby Spinach
-- 90 g Bacon Lardons
+- **1** Onion
+- **2** Garlic Cloves
+- **125 g** Baby Plum Tomatoes
+- **60 g** Diced Chorizo
+- **1 sachet** Cajun Spice Mix
+- **150 g** Basmati Rice
+- **20 g** Chicken Stock Paste
+- **1 bunch** Flat Leaf Parsley
+- **½** Lemon
+- **25 g** Red Pepper Chilli Jelly
+- **75 g** Greek Style Natural Yoghurt
 
-### Pantry
-- 1 tsp Sugar for the Sauce
-- 100 ml Water for the Sauce
-```
+### Pantry Items
+- **2 tbsp** Butter
+- **½ tsp** Sugar
+- **300 ml** Water for the Rice
+
+Feel free to adjust the quantities based on what's available at Sainsbury's!
