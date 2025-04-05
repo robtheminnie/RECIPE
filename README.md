@@ -1,17 +1,20 @@
-Here's the ingredients list extracted from the recipe image, formatted in markdown:
+Here's the extracted ingredients list formatted in markdown:
 
-## Ingredients (Serves 2)
+```markdown
+## Ingredients for Roast Vegetable Soup (Serves 4)
 
-- 450 g Potatoes
-- 2 Garlic Cloves
-- 1 sachet Italian Style Herbs
-- 10 g Panko
-- 10 g Breadcrumbs
-- 240 g Pork Mince
-- 150 g Green Beans
-- 1 bunch Chives
-- 150 g Crème Fraîche
-- 10 g Chicken Stock Paste
-- 2 tbsp Water for the Breadcrumbs
-- ¼ tsp Salt for the Breadcrumbs
-- 75 ml Water for the Sauce
+- 1 small butternut squash, halved, deseeded, and each half cut into four pieces
+- 1 red pepper, halved and cut into four pieces
+- 1 yellow pepper, halved and cut into four pieces
+- 1 large red onion, peeled and cut into thick wedges
+- 2 large beefsteak tomatoes, halved
+- 2 garlic cloves, peeled and thinly sliced
+- Juice of 1 lemon
+- A few fresh rosemary sprigs
+- Salt and freshly ground black pepper (to taste)
+- Low calorie cooking spray (for roasting)
+- 1200 ml vegetable stock
+- Fresh thyme sprigs (to garnish)
+```
+
+Feel free to ask if you need anything else!
